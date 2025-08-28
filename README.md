@@ -1,6 +1,6 @@
 # 🚀 From Business Ops to Data Engineering  
 
-Hi, I'm **[bartagabor1]** 👋  
+Hi, I'm **Gabor Barta** 👋  
 
 I’m a **Data Professional** blending **Data Engineering** and **Data Analytics** to deliver end-to-end solutions.  
 My projects span **automated ETL pipelines, API integrations, ML-based forecasts**, and **interactive dashboards** — all aimed at turning raw data into **reliable workflows and impactful insights**.  
